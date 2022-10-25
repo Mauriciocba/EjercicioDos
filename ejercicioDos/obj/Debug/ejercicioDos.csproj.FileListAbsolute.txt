@@ -1,0 +1,8 @@
+C:\Users\Mauricio\source\repos\ejercicioDos\ejercicioDos\bin\Debug\ejercicioDos.exe.config
+C:\Users\Mauricio\source\repos\ejercicioDos\ejercicioDos\bin\Debug\ejercicioDos.exe
+C:\Users\Mauricio\source\repos\ejercicioDos\ejercicioDos\bin\Debug\ejercicioDos.pdb
+C:\Users\Mauricio\source\repos\ejercicioDos\ejercicioDos\obj\Debug\ejercicioDos.csproj.AssemblyReference.cache
+C:\Users\Mauricio\source\repos\ejercicioDos\ejercicioDos\obj\Debug\ejercicioDos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauricio\source\repos\ejercicioDos\ejercicioDos\obj\Debug\ejercicioDos.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\ejercicioDos\ejercicioDos\obj\Debug\ejercicioDos.exe
+C:\Users\Mauricio\source\repos\ejercicioDos\ejercicioDos\obj\Debug\ejercicioDos.pdb
